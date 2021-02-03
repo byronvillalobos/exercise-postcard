@@ -1,0 +1,64 @@
+  .postcard
+    {
+  
+    width: 1000px;
+    height: 400px;
+    margin: auto;
+    overflow: hidden;
+
+    }
+
+    img
+    {
+    float: right; 
+    transition: .5s ease;
+    height: 50px;
+	width: 50px;
+    }
+  
+
+    h1
+    {
+    float: left;
+    font-family: cursive;
+    }
+
+ .footer
+    {
+    left: 250px;
+    top: 400px;
+    height: 70px;
+    width: 70px;
+        }
+.left {
+    width: 500;
+    margin-left: 1px;
+    margin-right: 499px;
+    float: left; 
+    text-align: justify;
+    word-wrap:break-word;
+       }
+ .right
+    {
+        width: 500;
+        margin-right: 1px;
+        margin-left: 499px;
+        float: right;
+        text-align: justify;
+    }
+       
+    .btn {
+  border: none;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+ background-color: slategray;
+  margin-top: 60px;
+  margin-left: 300px;
+}
+
+.btn:hover {background: #eef;}
+
+
+    
